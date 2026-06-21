@@ -1,0 +1,204 @@
+text,label
+Build projects that solve real-world problems.,helpful_advice
+Customize your resume for every application.,helpful_advice
+Practice coding problems consistently.,helpful_advice
+Network with alumni and professionals.,helpful_advice
+Attend career fairs even if you're nervous.,helpful_advice
+Keep your LinkedIn profile updated.,helpful_advice
+Prepare STAR stories for behavioral interviews.,helpful_advice
+Apply broadly and track your applications.,helpful_advice
+Contribute to open-source projects.,helpful_advice
+Practice mock interviews regularly.,helpful_advice
+Learn system design basics early.,helpful_advice
+Create a strong GitHub portfolio.,helpful_advice
+Follow up politely after interviews.,helpful_advice
+Focus on one programming language deeply.,helpful_advice
+Use internships to gain practical experience.,helpful_advice
+Improve communication skills along with coding.,helpful_advice
+Join coding clubs and communities.,helpful_advice
+Review data structures and algorithms weekly.,helpful_advice
+Take feedback seriously and improve.,helpful_advice
+Document your projects clearly.,helpful_advice
+Learn SQL for technical interviews.,helpful_advice
+Understand fundamentals before advanced topics.,helpful_advice
+Practice explaining your projects aloud.,helpful_advice
+Build end-to-end applications.,helpful_advice
+Create a personal website portfolio.,helpful_advice
+Stay consistent during job applications.,helpful_advice
+Research companies before interviews.,helpful_advice
+Learn version control with Git.,helpful_advice
+Work on teamwork and collaboration skills.,helpful_advice
+Keep learning even after rejections.,helpful_advice
+The job market is dead forever.,low_quality_opinion
+Nobody gets software jobs anymore.,low_quality_opinion
+CS degrees are useless.,low_quality_opinion
+AI replaced all programmers.,low_quality_opinion
+Only geniuses can become engineers.,low_quality_opinion
+LeetCode is completely pointless.,low_quality_opinion
+Recruiters never read resumes.,low_quality_opinion
+Networking never works.,low_quality_opinion
+Internships are impossible to get.,low_quality_opinion
+Big tech only hires lucky people.,low_quality_opinion
+All coding interviews are scams.,low_quality_opinion
+You need connections or you fail.,low_quality_opinion
+Bootcamps never work.,low_quality_opinion
+Degrees don't matter at all.,low_quality_opinion
+Software engineering is finished.,low_quality_opinion
+Nobody should learn programming now.,low_quality_opinion
+Every company only wants senior engineers.,low_quality_opinion
+Applying online is useless.,low_quality_opinion
+There are no opportunities for new grads.,low_quality_opinion
+The industry is collapsing.,low_quality_opinion
+All interviewers are unfair.,low_quality_opinion
+Nobody cares about projects.,low_quality_opinion
+Learning new skills is pointless.,low_quality_opinion
+Job searching is a waste of time.,low_quality_opinion
+Everyone in tech is getting laid off.,low_quality_opinion
+You must attend a top university.,low_quality_opinion
+Coding is only for gifted people.,low_quality_opinion
+There is no future in software.,low_quality_opinion
+Companies never hire juniors.,low_quality_opinion
+Trying harder won't help.,low_quality_opinion
+I had pizza for dinner yesterday.,off_topic
+What's your favorite movie?,off_topic
+My dog chewed my headphones.,off_topic
+Anyone watching cricket tonight?,off_topic
+I need song recommendations.,off_topic
+This weather is amazing.,off_topic
+I bought a new phone.,off_topic
+My keyboard lights look cool.,off_topic
+What games are you playing lately?,off_topic
+I went hiking this weekend.,off_topic
+Coffee tastes great today.,off_topic
+I like traveling during holidays.,off_topic
+My room needs cleaning.,off_topic
+Anyone seen the latest TV show?,off_topic
+This meme is hilarious.,off_topic
+I need a new backpack.,off_topic
+What is your favorite color?,off_topic
+I watched a documentary yesterday.,off_topic
+My cat is sleeping beside me.,off_topic
+Do you like rainy days?,off_topic
+I just got a haircut.,off_topic
+My internet is slow today.,off_topic
+I need vacation ideas.,off_topic
+What's your favorite food?,off_topic
+I bought new running shoes.,off_topic
+Anyone likes photography?,off_topic
+My desk is messy.,off_topic
+I enjoy reading novels.,off_topic
+I need workout suggestions.,off_topic
+This coffee shop is nice.,off_topic
+"Practice LeetCode consistently and focus on concepts you struggle with.",helpful_advice
+"Tailor your resume to each application instead of using the same version everywhere.",helpful_advice
+"Build projects that align with the roles you are applying for.",helpful_advice
+"Research the company before every interview.",helpful_advice
+"Prepare behavioral stories from your past experiences.",helpful_advice
+"Network with alumni and professionals in your field.",helpful_advice
+"Gain hands-on experience through internships whenever possible.",helpful_advice
+"Focus on understanding system design fundamentals.",helpful_advice
+"Create a GitHub portfolio showcasing your work.",helpful_advice
+"Use job rejections as feedback and continue improving.",helpful_advice
+"Consider contract roles to gain experience during a difficult market.",helpful_advice
+"Practice explaining your projects clearly during interviews.",helpful_advice
+"Learn technologies commonly mentioned in job descriptions.",helpful_advice
+"Keep applying consistently even when response rates are low.",helpful_advice
+"Use certifications to strengthen your resume when appropriate.",helpful_advice
+"CS is completely dead and nobody should study it anymore.",low_quality_opinion
+"The job market is hopeless and there is no point applying.",low_quality_opinion
+"AI has destroyed every opportunity for new graduates.",low_quality_opinion
+"Nobody gets hired unless they have connections.",low_quality_opinion
+"All tech companies treat employees like disposable objects.",low_quality_opinion
+"Getting a CS degree was the worst decision of my life.",low_quality_opinion
+"There are no good jobs left in software engineering.",low_quality_opinion
+"LeetCode is pointless because interviews are all luck.",low_quality_opinion
+"Every company only cares about cutting jobs with AI.",low_quality_opinion
+"The industry will never recover from layoffs.",low_quality_opinion
+"What is your favorite football team?",off_topic
+"Which movie should I watch this weekend?",off_topic
+"What phone do you recommend buying?",off_topic
+"Anyone playing video games tonight?",off_topic
+"What is your dream vacation destination?",off_topic
+Build projects related to the jobs you want because interviewers often ask about them.,helpful_advice
+Practice LeetCode consistently and focus on concepts you struggle with.,helpful_advice
+Tailor your resume for every application.,helpful_advice
+Research companies before interviews and prepare behavioral stories.,helpful_advice
+Network with alumni and professionals in your target field.,helpful_advice
+CS is dead and nobody will ever get hired again.,low_quality_opinion
+AI ruined software engineering for everyone.,low_quality_opinion
+Tech companies only see employees as disposable.,low_quality_opinion
+There is no point studying computer science anymore.,low_quality_opinion
+The job market is completely hopeless.,low_quality_opinion
+What is your favorite football team?,off_topic
+Which movie should I watch this weekend?,off_topic
+What phone should I buy next month?,off_topic
+Anyone playing video games tonight?,off_topic
+What is your favorite vacation destination?,off_topic
+I received more interview invitations after rewriting my resume to emphasize project outcomes instead of listing technologies.,helpful_advice
+Schedule mock interviews with friends to improve communication and confidence.,helpful_advice
+Apply even if you meet only 70 percent of the listed requirements.,helpful_advice
+Keep your GitHub profile organized and pin your strongest projects.,helpful_advice
+Attend career fairs even when you feel underqualified.,helpful_advice
+Ask recruiters for feedback after interviews when possible.,helpful_advice
+Learn one cloud platform well instead of trying to learn everything at once.,helpful_advice
+Create a personal website to showcase your projects and experience.,helpful_advice
+Focus on data structures and algorithms before jumping into advanced topics.,helpful_advice
+Join student organizations to expand your professional network.,helpful_advice
+Track your applications and follow up professionally when appropriate.,helpful_advice
+Practice explaining technical concepts to nontechnical audiences.,helpful_advice
+Read job descriptions carefully and identify common skill requirements.,helpful_advice
+Contribute to open source projects to gain real collaboration experience.,helpful_advice
+Spend time improving weak interview areas instead of only practicing strengths.,helpful_advice
+
+Nobody can get a tech job anymore regardless of skill level.,low_quality_opinion
+Every internship posting is fake and nobody actually gets hired.,low_quality_opinion
+The only way to succeed is to know someone important.,low_quality_opinion
+College is completely useless for software engineering careers.,low_quality_opinion
+Recruiters never read resumes so applications are pointless.,low_quality_opinion
+Technical interviews are designed only to reject candidates.,low_quality_opinion
+All entry level jobs secretly require ten years of experience.,low_quality_opinion
+There is no reason to build projects because employers do not care.,low_quality_opinion
+The software industry is permanently ruined by automation.,low_quality_opinion
+Everyone graduating with a CS degree is doomed.,low_quality_opinion
+Networking events are a waste of time for students.,low_quality_opinion
+Learning new technologies no longer helps your career.,low_quality_opinion
+The market is so bad that effort makes no difference.,low_quality_opinion
+Every company is replacing engineers with AI immediately.,low_quality_opinion
+Software engineering has no future as a profession.,low_quality_opinion
+
+What is your favorite restaurant in town?,off_topic
+Does anyone have recommendations for a good workout routine?,off_topic
+Which streaming service has the best shows right now?,off_topic
+I am planning a trip and need hotel suggestions.,off_topic
+What music are you listening to lately?,off_topic
+Which sports team are you supporting this season?,off_topic
+Has anyone tried the new smartphone that was released?,off_topic
+What is your favorite way to spend weekends?,off_topic
+Can someone recommend a good coffee shop?,off_topic
+What books are you reading this month?,off_topic
+How often do you go to the gym?,off_topic
+What is the best city to visit during summer?,off_topic
+Which video game are you currently playing?,off_topic
+Do you prefer dogs or cats as pets?,off_topic
+What is your favorite holiday destination?,off_topic
+"Use projects related to your target role because employers often ask detailed questions about work you have actually built.",helpful_advice
+"Prepare examples from your projects so you can discuss technical decisions during interviews.",helpful_advice
+"Focus on building a niche skill set that differentiates you from other applicants.",helpful_advice
+"Study company interview experiences and common questions before speaking with recruiters.",helpful_advice
+"Don't wait until graduation to gain experience; internships and side projects can help you stand out.",helpful_advice
+"Learning networking fundamentals and earning relevant certifications can improve entry-level IT opportunities.",helpful_advice
+"If a job description mentions unfamiliar tools, build a small lab project to gain hands-on experience.",helpful_advice
+"Apply to local companies and government organizations instead of focusing only on large tech firms.",helpful_advice
+"Keep improving your resume and customize it for each position you apply to.",helpful_advice
+"Use rejection as feedback and continue applying because persistence is often required in difficult markets.",helpful_advice
+
+"AI has made entry-level software engineers completely irrelevant.",low_quality_opinion
+"The only people who get jobs are students from elite universities.",low_quality_opinion
+"Companies do not care about skills anymore so improving yourself is pointless.",low_quality_opinion
+"The entire tech industry is collapsing and there is no future in it.",low_quality_opinion
+"If you don't already have experience, you will never break into the industry.",low_quality_opinion
+"Every job posting is fake and nobody is actually hiring.",low_quality_opinion
+"Learning new technologies is useless because AI will replace those jobs anyway.",low_quality_opinion
+"The market is so broken that effort no longer matters.",low_quality_opinion
+"Getting a computer science degree was a waste of time for everyone.",low_quality_opinion
+"Networking, projects, and certifications do not help because hiring is entirely luck.",low_quality_opinion
