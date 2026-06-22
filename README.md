@@ -164,9 +164,10 @@ Overall Accuracy:
 
 ---
 
+
 # Confusion Matrix
 
-Include the generated confusion_matrix.png here.
+![Confusion Matrix](evaluation/confusion_matrix.png)
 
 Observations:
 
